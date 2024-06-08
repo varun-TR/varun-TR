@@ -5,12 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=4000&pause=1000&color=000000&background=CED4DAA3&center=true&vCenter=true&repeat=false&random=true&width=450&lines=enthusiastic+fellow)](https://www.linkedin.com/in/varuntr2001/)
 
 [![](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/varuntr2001/)
-[![](https://skillicons.dev/icons?i=gmail&perline=3)]()
-
-
-
-
-
 
 
 <picture>
@@ -27,4 +21,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
