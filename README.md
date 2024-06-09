@@ -7,6 +7,7 @@
 [![](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/varuntr2001/)
 
 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
