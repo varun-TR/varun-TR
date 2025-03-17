@@ -15,7 +15,7 @@ Explore my [blogs](https://medium.com/@varunpandu006) where I share insights on 
 
 📫 Contact
 
-📧 Email: saivaruntanjore@gmu.edu
+📧 Email: stanjore@gmu.edu
 
 🔗 LinkedIn: [Saivarun Tanjore Raghavendra](https://www.linkedin.com/in/varuntr2001/)
 
