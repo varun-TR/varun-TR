@@ -13,22 +13,6 @@ Explore my [blogs](https://medium.com/@varunpandu006) where I share insights on 
 
 ---
 
-📫 Contact
-
-📧 Email: stanjore@gmu.edu
-
-🔗 LinkedIn: [Saivarun Tanjore Raghavendra](https://www.linkedin.com/in/varuntr2001/)
-
-🌍 Location: Fairfax, VA, USA
-
-Let's connect and collaborate on exciting projects! 🚀
-
-
-
-
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=000000&background=CED4DAA3&center=true&vCenter=true&repeat=false&random=true&width=450&lines=Hi%2C+My+name+is+Varun+Tanjore)](https://www.linkedin.com/in/varuntr2001/) 
 
@@ -54,3 +38,15 @@ Let's connect and collaborate on exciting projects! 🚀
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+--- 
+
+📫 Contact
+
+📧 Email: stanjore@gmu.edu
+
+🔗 LinkedIn: [Saivarun Tanjore Raghavendra](https://www.linkedin.com/in/varuntr2001/)
+
+🌍 Location: Fairfax, VA, USA
+
+Let's connect and collaborate on exciting projects! 🚀
