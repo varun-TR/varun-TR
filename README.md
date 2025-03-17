@@ -7,7 +7,7 @@ I'm a passionate developer and aspiring AI leader based in Fairfax, VA. With a s
 
 Check out my [website](https://varun-tr.github.io/Saivarun_portfolio/) to learn more about me.
 
-Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/varuntr2001/)).
+Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/varuntr2001/).
 
 Explore my [blogs](https://medium.com/@varunpandu006) where I share insights on AI, software development, and tech trends.
 
