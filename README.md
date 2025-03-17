@@ -1,3 +1,27 @@
+👋 Hey, I'm Saivarun Tanjore Raghavendra! 👨‍💻
+
+---
+About Me
+
+I'm a passionate developer and aspiring AI leader based in Fairfax, VA. With a strong background in Generative AI, Software Engineering, and Data Analytics, I strive to build innovative solutions that push the boundaries of technology. My journey involves working on AI applications in healthcare, machine learning research, and full-stack development.
+
+Check out my website to learn more about me.Stay updated with my journey on LinkedIn.Explore my blogs where I share insights on AI, software development, and tech trends.
+
+---
+
+📫 Contact
+
+📧 Email: saivaruntanjore@gmu.edu🔗 LinkedIn: Saivarun Tanjore Raghavendra🌍 Location: Fairfax, VA, USA
+
+Let's connect and collaborate on exciting projects! 🚀
+
+
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=000000&background=CED4DAA3&center=true&vCenter=true&repeat=false&random=true&width=450&lines=Hi%2C+My+name+is+Varun+Tanjore)](https://www.linkedin.com/in/varuntr2001/) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=4000&pause=1000&color=000000&background=CED4DAA3&center=true&vCenter=true&repeat=false&random=true&width=500&lines=As+I+grow%2C+I+fell+in+love+with+ML+engineering)](https://www.linkedin.com/in/varuntr2001/)
