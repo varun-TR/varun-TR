@@ -11,10 +11,8 @@ Check out my website to learn more about me.Stay updated with my journey on Link
 
 📫 Contact
 
-📧 Email: saivaruntanjore@gmu.edu🔗 
-
-LinkedIn: [Saivarun Tanjore Raghavendra](https://www.linkedin.com/in/varuntr2001/)
-
+📧 Email: saivaruntanjore@gmu.edu
+🔗 LinkedIn: [Saivarun Tanjore Raghavendra](https://www.linkedin.com/in/varuntr2001/)
 🌍 Location: Fairfax, VA, USA
 
 Let's connect and collaborate on exciting projects! 🚀
