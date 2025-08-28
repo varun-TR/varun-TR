@@ -1,4 +1,6 @@
-👋 Hey, I'm Saivarun Tanjore Raghavendra! 👨‍💻 call me Varun.
+👋 Hey, I'm Saivarun Tanjore Raghavendra!
+
+👨‍💻 call me Varun.
 
 ---
 About Me
