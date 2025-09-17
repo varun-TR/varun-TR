@@ -1,6 +1,6 @@
 👋 Hey, I'm Saivarun Tanjore Raghavendra!
 
-👨‍💻 call me Varun.
+👨‍💻 call me Sai.
 
 ---
 About Me
