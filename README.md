@@ -1,4 +1,4 @@
-👋 Hey, I'm Saivarun Tanjore Raghavendra!
+👋 Hey, I'm Saivarun!
 
 👨‍💻 call me Sai.
 
