@@ -46,6 +46,6 @@ Explore my [blogs](https://medium.com/@varunpandu006) where I share insights on 
 
 🔗 LinkedIn: [Saivarun Tanjore Raghavendra](https://www.linkedin.com/in/varuntr2001/)
 
-🌍 Location: Fairfax, VA, USA
+🌍 Location: Fairfax, VA, USA (Open to relocate)
 
 Let's connect and collaborate on exciting projects! 🚀
