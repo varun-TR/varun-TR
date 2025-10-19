@@ -5,7 +5,7 @@
 ---
 About Me
 
-I'm a passionate developer and aspiring AI leader based in Fairfax, VA. With a strong background in Generative AI, Software Engineering, and Data Analytics, I strive to build innovative solutions that push the boundaries of technology. My journey involves working on AI applications in healthcare, machine learning research, and full-stack development.
+I'm a passionate developer and aspiring AI leader. With a strong background in Generative AI, Software Engineering, and Data Analytics, I strive to build innovative solutions that push the boundaries of technology. My journey involves working on AI applications, machine learning research, and full-stack development.
 
 Check out my [website](https://portfolio-merch.onrender.com/) to learn more about me.
 
